@@ -5,11 +5,11 @@
 | №  | Topic                                   | Area of Study    | Lesson                           | Assignment               |
 | -- | --------------------------------------- | ---------------- | -------------------------------- | ------------------------ |
 | 1  | Google Colab + Environment              | Introduction     | [Lesson 1](lessons/lesson1.md)   | [Task 1](tasks/task1.md) |
-| 2  | Python Basics                           | Programming      | [Lesson 2](lessons/lesson2.md)   |                          |
-| 3  | pandas Basics + Filtering               | Data Analysis    | [Lesson 3](lessons/lesson3.md)   | [Task 2](tasks/task2.md) |
-| 4  | Data Visualization                      | Data Analysis    | [Lesson 4](lessons/lesson4.md)   |                          |
-| 5  | Exploratory Data Analysis (EDA)         | Data Analysis    | [Lesson 5](lessons/lesson5.md)   | [Task 3](tasks/task3.md) |
-| 6  | Feature Engineering                     | Data Analysis    | [Lesson 6](lessons/lesson6.md)   |                          |
+| 2  | Python Basics                           | Programming      | [Lesson 2](lessons/lesson2.md)   | [Task 2](tasks/task2.md) |
+| 3  | pandas Basics + Filtering               | Data Analysis    | [Lesson 3](lessons/lesson3.md)   | [Task 3](tasks/task3.md) |
+| 4  | Data Visualization                      | Data Analysis    | [Lesson 4](lessons/lesson4.md)   | [Task 4](tasks/task4.md) |
+| 5  | Exploratory Data Analysis (EDA)         | Data Analysis    | [Lesson 5](lessons/lesson5.md)   | [Task 5](tasks/task5.md) |
+| 6  | Feature Engineering                     | Data Analysis    | [Lesson 6](lessons/lesson6.md)   | [Task 6](tasks/task6.md) |
 | 7  | Statistics I: Probability + Correlation | Statistics       |                                  |                          |
 | 8  | Statistics II: A/B Testing + Hypothesis | Statistics       |                                  |                          |
 | 9  | Midterm Test                            | Assessment       |                                  |                          |
