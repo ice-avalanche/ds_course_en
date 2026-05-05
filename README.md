@@ -10,15 +10,15 @@
 | 4  | Data Visualization                      | Data Analysis    | [Lesson 4](lessons/lesson4.md)   | [Task 4](tasks/task4.md) |
 | 5  | Exploratory Data Analysis (EDA)         | Data Analysis    | [Lesson 5](lessons/lesson5.md)   | [Task 5](tasks/task5.md) |
 | 6  | Feature Engineering                     | Data Analysis    | [Lesson 6](lessons/lesson6.md)   | [Task 6](tasks/task6.md) |
-| 7  | Statistics I: Probability + Correlation | Statistics       |                                  |                          |
-| 8  | Statistics II: A/B Testing + Hypothesis | Statistics       |                                  |                          |
+| 7  | Statistics                              | Statistics       | [Lesson 7](lessons/lesson7.md)   | [Task 7](tasks/task7.md) |
+| 8  | Dashboards in Yandex Datalens           | Dashboards       | [Lesson 8](lessons/lesson8.md)   | [Task 8](tasks/task8.md) |
 | 9  | Midterm Test                            | Assessment       |                                  |                          |
-| 10 | Regression I (Linear Models)            | Machine Learning |                                  |                          |
-| 11 | Regression II (Advanced + Practice)     | Machine Learning |                                  |                          |
-| 12 | Classification I (LogReg, Basics)       | Machine Learning |                                  |                          |
-| 13 | Classification II (Trees + Practice)    | Machine Learning |                                  |                          |
+| 10 | Regression I (Basics)                   | Machine Learning |                                  |                          |
+| 11 | Regression II (Advanced)                | Machine Learning |                                  |                          |
+| 12 | Classification I (Basics)               | Machine Learning |                                  |                          |
+| 13 | Classification II (Advanced)            | Machine Learning |                                  |                          |
 | 14 | Time Series I (Basics)                  | Machine Learning |                                  |                          |
-| 15 | Time Series II (Forecasting)            | Machine Learning |                                  |                          |
+| 15 | Time Series II (Advanced)               | Machine Learning |                                  |                          |
 | 16 | Integration with Web (API / Deployment) | Engineering      |                                  |                          |
 | 17 | Bot Development (Telegram)              | Engineering      |                                  |                          |
 | 18 | Final Test                              | Assessment       |                                  |                          |
