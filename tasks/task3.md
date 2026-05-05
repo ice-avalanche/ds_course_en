@@ -17,6 +17,8 @@ drive.mount('/content/gdrive', force_remount=True)
 df = pd.read_excel('/content/data.xlsx', decimal=',')
 ```
 
+Dataset: [dataset_3_4.xlsx](https://github.com/ice-avalanche/ds_course_en/blob/4258662412a23bc60866c7545920f8f4deb6628a/datasets/dataset_3_4.xlsx)
+
 ## 1. Basic overview
 
 * Check structure of the dataset
