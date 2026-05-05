@@ -14,6 +14,8 @@ import seaborn as sns
 df = pd.read_csv("data.csv")
 ```
 
+Dataset: [dataset_5_6.xlsx](https://github.com/ice-avalanche/ds_course_en/blob/990ff6309a8b80157efffea39d24ef117f0b25f6/datasets/dataset_5_6.xlsx)
+
 ## 1. First look
 
 * Display first and last rows
