@@ -16,6 +16,8 @@ df = pd.read_excel('/content/data.xlsx')
 df["HireDate"] = pd.to_datetime(df["HireDate"], errors="coerce")
 ```
 
+Dataset: [dataset_3_4.xlsx](https://github.com/ice-avalanche/ds_course_en/blob/4258662412a23bc60866c7545920f8f4deb6628a/datasets/dataset_3_4.xlsx)
+
 ## 1. Line plot
 
 * Plot trend of average Salary over time (by year or month)
