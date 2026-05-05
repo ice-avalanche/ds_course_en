@@ -10,7 +10,7 @@
 | 4  | Data Visualization                      | Data Analysis    | [Lesson 4](lessons/lesson4.md)   | [Task 4](tasks/task4.md) |
 | 5  | Exploratory Data Analysis (EDA)         | Data Analysis    | [Lesson 5](lessons/lesson5.md)   | [Task 5](tasks/task5.md) |
 | 6  | Feature Engineering                     | Data Analysis    | [Lesson 6](lessons/lesson6.md)   | [Task 6](tasks/task6.md) |
-| 7  | Statistics                              | Statistics       | [Lesson 7](lessons/lesson7.ipynb)| [Task 7](tasks/task7.md) |
+| 7  | Statistics                              | Statistics       | [Lesson 7](lessons/lesson7.ipynb)| [Task 7 (1)](tasks/task7_1.ipynb), [(2)](tasks/task7_2.ipynb), [(3)](tasks/task7_3.ipynb) |
 | 8  | Dashboards in Yandex Datalens           | Dashboards       | [Lesson 8](lessons/lesson8.md)   | [Task 8](tasks/task8.md) |
 | 9  | Midterm Test                            | Assessment       |                                  |                          |
 | 10 | Regression I (Basics)                   | Machine Learning |                                  |                          |
